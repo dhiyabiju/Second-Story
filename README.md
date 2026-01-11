@@ -19,3 +19,22 @@ It demonstrates the use of structured HTML and styled layouts using CSS.
 - CSS3
 
 ## 📂 Project Structure
+## ▶️ How to Run the Project
+1. Download or clone the repository
+2. Open the `index.html` file in any web browser
+3. The website will load locally
+
+## 🌐 Live Preview
+(If hosted, add your GitHub Pages or live link here)
+
+## 📚 What I Learned
+- HTML page structure
+- CSS styling and layout
+- Website responsiveness
+- Project organization
+
+## 👤 Author
+Team Odyssey
+
+## 📄 License
+This project is for learning purposes and is open for personal use.
